@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-file line-length -->
 # edt-agent
 
 ## 📖 Description
