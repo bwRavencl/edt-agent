@@ -2,7 +2,7 @@ import java.nio.charset.StandardCharsets
 
 plugins {
   java
-  id("com.diffplug.spotless") version "8.10.1"
+  id("com.diffplug.spotless") version "8.10.2"
 }
 
 java {
