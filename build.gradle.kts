@@ -7,7 +7,7 @@ plugins {
 
 java {
   toolchain {
-    languageVersion.set(JavaLanguageVersion.of(26))
+    languageVersion.set(JavaLanguageVersion.of(27))
     vendor.set(JvmVendorSpec.AZUL)
   }
 }
